@@ -1,0 +1,5 @@
+[2020-02-12 14:59:16] - stack_0212_1459 - train_x shape: (1458, 220)
+[2020-02-12 14:59:16] - stack_0212_1459 - train_y shape: (1458,)
+[2020-02-12 14:59:16] - stack_0212_1459 - start training cv
+[2020-02-12 14:59:16] - stack_0212_1459 - cv method: KFold
+[2020-02-12 14:59:16] - stack_0212_1459 fold 0 - start training

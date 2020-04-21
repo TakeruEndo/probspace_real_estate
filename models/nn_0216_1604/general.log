@@ -1,0 +1,25 @@
+[2020-02-16 16:04:04] - nn_0216_1604 - train_x shape: (1458, 60)
+[2020-02-16 16:04:04] - nn_0216_1604 - train_y shape: (1458,)
+[2020-02-16 16:04:04] - nn_0216_1604 - start training cv
+[2020-02-16 16:04:04] - nn_0216_1604 - cv method: KFold
+[2020-02-16 16:04:04] - nn_0216_1604 fold 0 - start training
+[2020-02-16 16:04:11] - nn_0216_1604 fold 0 - end training - score 1.330617288980226
+[2020-02-16 16:04:12] - nn_0216_1604 fold 1 - start training
+[2020-02-16 16:04:14] - nn_0216_1604 fold 1 - end training - score 5.741310144845476
+[2020-02-16 16:04:15] - nn_0216_1604 fold 2 - start training
+[2020-02-16 16:04:17] - nn_0216_1604 fold 2 - end training - score 8.090244399600973
+[2020-02-16 16:04:17] - nn_0216_1604 fold 3 - start training
+[2020-02-16 16:04:25] - nn_0216_1604 fold 3 - end training - score 0.7451460208271273
+[2020-02-16 16:04:26] - nn_0216_1604 - end training cv - score 3.9768294635634507
+[2020-02-16 16:04:26] - nn_0216_1604 - start prediction cv
+[2020-02-16 16:04:26] - nn_0216_1604 - start prediction fold:0
+[2020-02-16 16:04:27] - nn_0216_1604 - end prediction fold:0
+[2020-02-16 16:04:27] - nn_0216_1604 - start prediction fold:1
+[2020-02-16 16:04:29] - nn_0216_1604 - end prediction fold:1
+[2020-02-16 16:04:29] - nn_0216_1604 - start prediction fold:2
+[2020-02-16 16:04:31] - nn_0216_1604 - end prediction fold:2
+[2020-02-16 16:04:31] - nn_0216_1604 - start prediction fold:3
+[2020-02-16 16:04:33] - nn_0216_1604 - end prediction fold:3
+[2020-02-16 16:04:33] - nn_0216_1604 - end prediction cv
+[2020-02-16 16:04:33] - nn_0216_1604 - start create submission
+[2020-02-16 16:04:33] - nn_0216_1604 - end create submission

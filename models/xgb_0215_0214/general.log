@@ -1,0 +1,21 @@
+[2020-02-15 02:14:24] - xgb_0215_0214 - train_x shape: (1458, 60)
+[2020-02-15 02:14:24] - xgb_0215_0214 - train_y shape: (1458,)
+[2020-02-15 02:14:24] - xgb_0215_0214 - start training cv
+[2020-02-15 02:14:24] - xgb_0215_0214 - cv method: KFold
+[2020-02-15 02:14:24] - xgb_0215_0214 fold 0 - start training
+[2020-02-15 02:14:25] - xgb_0215_0214 fold 0 - end training - score 0.02569771510614568
+[2020-02-15 02:14:25] - xgb_0215_0214 fold 1 - start training
+[2020-02-15 02:14:26] - xgb_0215_0214 fold 1 - end training - score 0.030663998660552767
+[2020-02-15 02:14:26] - xgb_0215_0214 fold 2 - start training
+[2020-02-15 02:14:28] - xgb_0215_0214 fold 2 - end training - score 0.024510994588741484
+[2020-02-15 02:14:28] - xgb_0215_0214 - end training cv - score 0.02695756945181331
+[2020-02-15 02:14:29] - xgb_0215_0214 - start prediction cv
+[2020-02-15 02:14:29] - xgb_0215_0214 - start prediction fold:0
+[2020-02-15 02:14:29] - xgb_0215_0214 - end prediction fold:0
+[2020-02-15 02:14:29] - xgb_0215_0214 - start prediction fold:1
+[2020-02-15 02:14:29] - xgb_0215_0214 - end prediction fold:1
+[2020-02-15 02:14:29] - xgb_0215_0214 - start prediction fold:2
+[2020-02-15 02:14:29] - xgb_0215_0214 - end prediction fold:2
+[2020-02-15 02:14:29] - xgb_0215_0214 - end prediction cv
+[2020-02-15 02:14:29] - xgb_0215_0214 - start create submission
+[2020-02-15 02:14:29] - xgb_0215_0214 - end create submission
